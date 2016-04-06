@@ -2,7 +2,7 @@
 
 ## ¡Próximo taller!
 
-![Taller de Python](https://raw.githubusercontent.com/fifabsas/talleresfifabsas/master/difusion1.png)
+![Taller de Python](https://raw.githubusercontent.com/fifabsas/talleresfifabsas/master/difusion_1.png)
 
 
 
