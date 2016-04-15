@@ -9,16 +9,10 @@ Es un lenguaje de programación de uso general (sirve para *casi* cualquier cosa
 Si tenés Windows/Linux/OS X la mejor opción es instalar [Anaconda](http://continuum.io/downloads), que te permite instalar en una carpeta de tu usuario (sin permiso de administrador) todas las herramientas y además se configura para poder utilizarlo (se agrega al PATH, accesos directos, etc). Si tenés Linux es muy probable que tengas ya Python, pero recomendamos igualmente instalar Anaconda por todos los paquetes que trae.
 
 ## ¿Cómo programo Python?
-Con cualquier editor de texto se puede editar los archivos de python (.py) y con la consola `se puede ejecutar. Obviamente, *no* recomendamos esta metodología. **Spyder** es un IDE (editor integrado de desarrollo) que se parece mucho a Matlab, lo que ayuda a la migración. Nosotros usamos mucho el [**Notebook de Jupyter**](http://jupyter.org/) (antes conocido como IPython), por muchas razones además de ser fácil de utilizar; es una forma interactiva, que permite ejecutar, revisar y repetir de forma fácil y además tiene herramientas para que quede como un informe. Cómo es una página web además se puede utilizar para trabajar en una computadora que puede no tener interfaz gráfica, como un servidor. 
+Con cualquier editor de texto se puede editar los archivos de python (.py) y con la consola `se puede ejecutar. Obviamente, *no* recomendamos esta metodología. **Spyder** es un IDE (editor integrado de desarrollo) que se parece mucho a Matlab, lo que ayuda a la migración. Nosotros usamos mucho el [**Notebook de Jupyter**](http://jupyter.org/) (antes conocido como IPython), por muchas razones además de ser fácil de utilizar; es una forma interactiva, que permite ejecutar, revisar y repetir de forma fácil y además tiene herramientas para que quede como un informe. Cómo es una página web además se puede utilizar para trabajar en una computadora que puede no tener interfaz gráfica, como un servidor.
 Todos estos programas vienen instalados con Anaconda, así que es otra razón para instalarlo.
 
-En el taller vamos a utilizar [DataJoy](http://getdatajoy.com), que es una interfaz web online para programar; ofrece poder de computo básico, pero podemos trabajar de forma colaborativa y además no requiere instalar nada (que siempre es una complicación en los laboratorios).
-
-
-
- 
-
-
+En el taller vamos a utilizar el notebook de Jupyter, que ya lo mencionamos. Para usarlo entren en una consola e ingresen `jupyter notebook`. Asegurense de que lo ejecutan en un lugar donde el notebook a ejecutar lo puedan ver y acceder. De última se copia.
 
 ## Documentación  
 * Oficial [docs.python.org](http://docs.python.org)
